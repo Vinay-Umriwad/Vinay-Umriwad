@@ -11,7 +11,8 @@
 - 📫 How to reach me: **umriwad@gmail.com**
 - 📄 Check out my resume [here](https://drive.google.com/file/d/1yYy_zMF8c5J02ayrbzlwpUxcbCAeoXOR/view?usp=drive_link)
  
-
+<br />
+<br />
 
 
 <h3 align="center">Connect with me:</h3>
