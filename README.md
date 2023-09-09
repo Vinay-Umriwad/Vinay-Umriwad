@@ -15,7 +15,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/vinay-umriwad-aa2649180/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vinay Umriwad" height="30" width="40" /></a>
-<a href="https://instagram.com/harikaapi_right" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harikaapi_right" height="30" width="40" /></a>  
+<a href="https://instagram.com/harikaapi_right" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harikaapi_right" height="30" width="40" /></a>  
 <a href="https://discord.gg/VinayUmriwad#8804" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="HariAcidReign#3665" height="30" width="40" /></a>
 </p>
 
