@@ -1,6 +1,6 @@
 <br/>
 
-<h1 align="center"> नमस्ते, I am $${\color{orange}Vinay \space Umriwad}$$</h1>
+<h1 align="center"> $${\color{orange} नमस्ते}$$, I am Vinay Umriwad</h1>
 <h3 align="center"> MERN stack Developer 💻 | Loves React JS ⚛️ | OpenSourcer ✅</h3>
 
 
