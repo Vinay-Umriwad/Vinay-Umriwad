@@ -1,7 +1,7 @@
 <br/>
 
 <h1 align="center">नमस्ते, I am Vinay Umriwad</h1>
-<h3 align="center"> MERN stack Developer 💻 | Loves React JS ⚛️ | OpenSourcer ✅</h3>
+<h3 align="center"> MERN Stack Developer 💻 | Loves React JS ⚛️ | OpenSourcer ✅</h3>
 
 
 <br/>
