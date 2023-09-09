@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋🏻 I'm Vinay Umriwad</h1>
-<h3 align="center">| MERN stack Developer 💻 | Loves React JS ⚛️ | OpenSourcer ✅</h3>
+<h3 align="center"> MERN stack Developer 💻 | Loves React JS ⚛️ | OpenSourcer ✅</h3>
 
 
 
@@ -11,7 +11,9 @@
 - 📫 How to reach me: **umriwad@gmail.com**
 - 📄 Check out my resume [here](https://drive.google.com/file/d/1yYy_zMF8c5J02ayrbzlwpUxcbCAeoXOR/view?usp=drive_link)
  
-    
+
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/vinay-umriwad-aa2649180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinay Umriwad" height="30" width="40" /></a>
