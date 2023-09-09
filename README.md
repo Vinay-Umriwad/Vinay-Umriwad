@@ -3,10 +3,6 @@
 <h1 align="center"> नमस्ते, I am <font color="orange">Vinay Umriwad</font></h1>
 <h3 align="center"> MERN stack Developer 💻 | Loves React JS ⚛️ | OpenSourcer ✅</h3>
 
-<font color="red">This text is red</font>
-<font color="green">This text is green</font>
-
-
 
 <br/>
 <br/>
