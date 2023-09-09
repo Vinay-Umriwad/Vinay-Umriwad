@@ -1,6 +1,6 @@
 <br/>
 
-<h1 align="center"> नमस्ते, I am <span style="color:#ffa500">Vinay Umriwad</span></h1>
+<h1 align="center"> नमस्ते, I am <span style="color🍊">Vinay Umriwad</span></h1>
 <h3 align="center"> MERN stack Developer 💻 | Loves React JS ⚛️ | OpenSourcer ✅</h3>
 
 
