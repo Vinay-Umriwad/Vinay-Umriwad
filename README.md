@@ -1,11 +1,11 @@
 <br/>
-<br/>
 
 <h1 align="center"> नमस्ते, I am Vinay Umriwad</h1>
 <h3 align="center"> MERN stack Developer 💻 | Loves React JS ⚛️ | OpenSourcer ✅</h3>
 
 
-
+<br/>
+<br/>
 
 - 🌱 I’m currently learning React JS
 - 👯  I’m looking to collaborate with other open source contributor.
