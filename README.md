@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning DevOps
 - 👯  I’m looking to collaborate with other open-source contributor.
 - 📫 How to reach me: **umriwad@gmail.com**
-- 📄 Check out my resume [here]([https://drive.google.com/file/d/1yYy_zMF8c5J02ayrbzlwpUxcbCAeoXOR/view?usp=drive_link](https://drive.google.com/file/d/156Gzh_dIah6AD_Q2wzf8tox8LsMK1m9c/view?usp=sharing))
+- 📄 Check out my resume [here](https://drive.google.com/file/d/156Gzh_dIah6AD_Q2wzf8tox8LsMK1m9c/view?usp=sharing)
  
 <br />
 <br />
