@@ -1,16 +1,16 @@
 <br/>
 
 <h1 align="center">नमस्ते, I am Vinay Umriwad</h1>
-<h3 align="center"> MERN Stack Developer 💻 | Loves React JS ⚛️ | OpenSourcer ✅</h3>
+<h3 align="center"> AWS DevOps Engineer 💻 | Loves Cloud | OpenSourcer ✅</h3>
 
 
 <br/>
 <br/>
 
-- 🌱 I’m currently learning React JS
-- 👯  I’m looking to collaborate with other open source contributor.
+- 🌱 I’m currently learning DevOps
+- 👯  I’m looking to collaborate with other open-source contributor.
 - 📫 How to reach me: **umriwad@gmail.com**
-- 📄 Check out my resume [here](https://drive.google.com/file/d/1yYy_zMF8c5J02ayrbzlwpUxcbCAeoXOR/view?usp=drive_link)
+- 📄 Check out my resume [here]([https://drive.google.com/file/d/1yYy_zMF8c5J02ayrbzlwpUxcbCAeoXOR/view?usp=drive_link](https://drive.google.com/file/d/156Gzh_dIah6AD_Q2wzf8tox8LsMK1m9c/view?usp=sharing))
  
 <br />
 <br />
